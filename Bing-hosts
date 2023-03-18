@@ -1,0 +1,21 @@
+# 新必应 Hosts 配置
+# 更新日期： 2023-3-16 16:41:33
+# 更新维护：IT豪哥-电脑教程网 (www.ithaoge.cn)
+# 更新地址：https://www.ithaoge.cnn/bing.txt
+# Windows 推荐管理工具：SwitchHosts
+# 下载：https://www.ithaoge.com/SwitchHosts.html
+# 新必应主页：https://www.bing.com/new
+
+# 说明1：如果失效，请在编辑里点击刷新，查看 Hosts 配置否有更新
+# 说明2：如果配置获取失败，网址打不开，请连接手机热点尝试
+# 说明3：以下Hosts配置内容可以自行复制使用，本地址仅为方便导入和后续更新
+
+#必应主页相关
+20.196.210.19 bing.com
+20.196.210.19 www.bing.com 
+20.196.210.19 r.bing.com
+20.196.210.19 cn.bing.com
+
+#Edge浏览器侧边栏相关
+20.196.210.19 edgeservices.bing.com
+20.196.210.19 sydney.bing.com
